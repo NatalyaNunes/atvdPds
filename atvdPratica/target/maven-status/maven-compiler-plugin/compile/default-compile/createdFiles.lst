@@ -1,0 +1,4 @@
+br\edu\ifrn\pds\pratica\negocio\dominio\Filme.class
+br\edu\ifrn\pds\pratica\persistencia\Conexao.class
+br\edu\ifrn\pds\pratica\persistencia\FilmeDAO.class
+br\edu\ifrn\pds\pratica\ui\Aplicacao.class
